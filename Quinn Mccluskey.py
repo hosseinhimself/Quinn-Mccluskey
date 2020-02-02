@@ -164,9 +164,6 @@ def Maxterm(list):
     maxtermslist=intersperse(maxtermslist,' . ')
     return listToString(maxtermslist)
 
-
-######################################
-
 ##################################
 #Enter Minterms or Maxterms:
 try:
