@@ -1,5 +1,5 @@
 # Quinn-Mccluskey
-Quinn-Mccluskey Algortihm for Logic gates.\n
+Quinn-Mccluskey Algortihm for Logic gates.
 I did this project for a logic circuit lesson.
 In this project we will include input elements and Dont'Cares.
 And outputs include:
